@@ -1,7 +1,7 @@
 # 42 Piscine — C Piscine Deliverables
 
 ## Overview
-This repository contains the work completed during the 42 School C Piscine in 2023. The Piscine is a 22-day intensive learning experience designed to introduce students to C programming, Unix tools, and the 42 pedagogy of learning by doing.
+This repository contains the work completed during the 42 School C Piscine in 2023. The Piscine is a 26-day intensive learning experience designed to introduce students to C programming, Unix tools, and the 42 pedagogy of learning by doing.
 
 This was my first real coding experience. For me, the value of the Piscine was not in the volume of code produced, but in what I learned and what I was able to achieve in a short time.
 
